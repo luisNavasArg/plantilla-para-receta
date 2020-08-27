@@ -1,0 +1,40 @@
+.azul{
+	background-color: blue;
+}
+.ancho{
+	width: 70%;
+}
+.azulClaro{
+	background-color: #5e7aff;
+}
+.bordo{
+	background-color: #54004f;
+}
+.bordoClaro{
+	background-color: #81006c;
+}
+.beige{
+	background-color: #ffa3d6;
+}
+.verdeClaro{
+	background-color: #59ff40;
+}
+.verde{
+	background-color: green;
+}
+.verdeMedio{
+	background-color: #86ff6d;
+}
+.fantasy{
+	font-family: fantasy;
+}
+.monospace{
+	font-family: monospace;
+}
+.sans-serif{
+	font-family: sans-serif;
+}
+.sombra{
+	box-shadow:5px 5px 5px black;
+	
+}
